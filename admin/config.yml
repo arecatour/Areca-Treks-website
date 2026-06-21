@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: arecatour/Areca-Treks-websitereca-treks-website
+  repo: arecatour/Areca-Treks-website
   branch: main
 
 media_folder: "images"
