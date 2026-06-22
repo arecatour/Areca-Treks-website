@@ -8,12 +8,12 @@ public_folder: "/images"
 
 collections:
   - name: "pages"
-    label: "Pages"
+    label: "Website Pages"
     files:
       - label: "Homepage"
         name: "index"
         file: "index.html"
         fields:
-          - label: "Page Content"
+          - label: "Content"
             name: "body"
             widget: "markdown"
