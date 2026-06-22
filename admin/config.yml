@@ -14,4 +14,4 @@ collections:
         label: "Edit Full Website"
         name: "homepage"
         fields:
-          - { label: "Website Code", name: "body", widget: "code", default_language: "html" }
+          - { label: "Website Code", name: "body", widget: "text" }
